@@ -1,1 +1,2 @@
-# Design-Patters-Test
+# Design-Patterns-Test
+- Factory Method
